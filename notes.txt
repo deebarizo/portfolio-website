@@ -1,0 +1,9 @@
+I was confused with "font-size: 16pt;" but then I found this:
+
+https://kyleschaeffer.com/css-font-size-em-vs-px-vs-pt-vs-percent
+
+It says: "Points are traditionally used in print media (anything that is to be printed on paper, etc.). One point is equal to 1/72 of an inch. Points are much like pixels, in that they are fixed-size units and cannot scale in size."
+
+But I am confused as to why rem is showing up in margin and padding.
+
+I did notice that theme uses media queries for responsive views. It uses pixels and max-width in the media queries.
